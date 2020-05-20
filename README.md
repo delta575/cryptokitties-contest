@@ -6,6 +6,8 @@ Who's the cutest CryptoKitty?
 
 This simple web app demonstrates a simple implementetion of the MEVN stack (MongoDB, Express, Vue and Node) plus adding public Ethereum Blockchain data via web3 injection.
 
+![Screenshot](static/screenshot.PNG)
+
 ## Architecture Diagram:
 
 ![Architecture](static/architechture.PNG)
