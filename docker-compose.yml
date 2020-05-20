@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  kitties-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    ports:
+      - '80:80'
+  mongo:
+    image: mongo
+    restart: always
